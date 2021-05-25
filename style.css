@@ -12,14 +12,14 @@
 
 ::-webkit-scrollbar-thumb {
     border-radius: 5px;
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to top, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     box-shadow: inset 2px 2px 2px #ffffff, inset -2px -2px -2px #000000;
 }
 
 ::-webkit-scrollbar-track {
-    background:#241f36;
+    background:#521711;
 }
 
 html{
@@ -50,9 +50,9 @@ html{
 }
 
 #navbar__logo {
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -106,15 +106,15 @@ html{
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     color: #fff;
     transition: all 0.3 ease;
 }
 
 .navbar__links:hover {
-    color: #4e4376;
+    color: #93291E;
     transition: all 0.3s ease;
 }
 
@@ -234,14 +234,14 @@ html{
 
 .hero__heading {
     font-size: 100px;
-    margin-botton: 24px;
+    margin-bottom: 24px;
     color: #fff;
 }
 
 .hero__heading span {
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -251,9 +251,9 @@ html{
 
 .hero__description {
     font-size: 60px;
-    background: #9114ff;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #9114ff, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #9114ff, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E , #ED213A ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -262,7 +262,7 @@ html{
 }
 
 .highlight {
-    border-bottom: 4px solid rgb(132, 0, 255);
+    border-bottom: 4px solid #93291E;
 }
 
 @media screen and (max-width:768px) {
@@ -301,9 +301,9 @@ html{
 
 .main__content h1 {
     font-size: 2rem;
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -315,9 +315,9 @@ html{
 
 .main__content h2 {
     font-size: 4rem;
-    background: #9114ff;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #9114ff, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #9114ff, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -333,9 +333,9 @@ html{
 
 .main__btn {
     font-size: 1.8rem;
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     padding: 20px 60px;
     border: none;
     border-radius: 4px;
@@ -361,7 +361,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background: #4e4376;
+    background: #ED213A;
     transition: all 0.35s;
     border-radius: 4px;
 }
@@ -470,9 +470,9 @@ html{
 }
 
 .services h1 {
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -496,9 +496,7 @@ html{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    color: #9114ff;  /* fallback for old browsers */
-    color: -webkit-linear-gradient(to right, #9114ff, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    color: linear-gradient(to right, #9114ff, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ED213A;  /* fallback for old browsers */  
     background-image: url('/img/cosmetics.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
@@ -534,9 +532,9 @@ html{
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #2b5876;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ED213A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     background-size: 100%;
 }
 
