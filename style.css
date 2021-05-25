@@ -530,7 +530,6 @@ html{
 }
 
 .services__card button {
-    color: #fff;
     padding: 14px 24px;
     border: none;
     outline: none;
@@ -539,7 +538,6 @@ html{
     background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 100%;
-    font-size: 1.15rem;
 }
 
 .services__card button:hover {
@@ -550,6 +548,14 @@ html{
     transform: scale(1.075);
     transition: 0.3s ease-in;
     cursor: pointer;
+}
+
+.services__card a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.15rem;
 }
 
 .services__card:nth-child(1):hover {
