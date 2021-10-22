@@ -29,6 +29,11 @@ html {
     scroll-behavior: smooth;
 }
 
+body::after{
+    position:absolute; width:0; height:0; overflow:hidden; z-index:-1; 
+    content:url('/img/cosmetics\ \ color.jpg') url('/img/Equipments\ color.jpg') url('/img/Resources\ color.jpg') url('/img/all\ clan\ pic\ color.jpg');   
+ }
+
 .navbar {
     background: #131313;
     height: 80px;

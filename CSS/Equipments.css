@@ -206,31 +206,3 @@ html {
         transform: translateY(-8px) rotate(-45deg);
     }
 }
-
-
-/* Map */
-
-.map {
-    overflow: auto;
-    background: #000000;
-    background: linear-gradient(to right, #161616, #000000);
-    padding: 100px 0;
-}
-
-.map__image {
-    width: 60rem;
-    position: relative;
-    display: block;
-    margin: auto;
-}
-
-.map__image path {
-    fill: silver;
-    stroke: #000;
-    stroke-width: 1;
-    transition: fill 0.3s;
-}
-
-.map__image g:hover {
-    -webkit-filter: brightness(70%);
-}
