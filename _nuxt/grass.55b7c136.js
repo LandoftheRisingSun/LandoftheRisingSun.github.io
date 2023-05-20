@@ -1,0 +1,1 @@
+import{p as s,j as t,o as c}from"./entry.954cfa17.js";const o=""+globalThis.__publicAssetsURL("grass.jpg"),e={},r={src:o,alt:"touch it"};function _(a,n){return c(),t("img",r)}const l=s(e,[["render",_]]);export{l as default};
