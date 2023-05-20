@@ -1,1 +1,0 @@
-import{p as s,j as e,o as t,x as o}from"./entry.4642d0f8.js";const c=""+globalThis.__publicAssetsURL("grass.jpg"),n={},r=o("img",{src:c,alt:"Consider touching it."},null,-1),_=[r];function a(i,l){return t(),e("div",null,_)}const p=s(n,[["render",a]]);export{p as default};
