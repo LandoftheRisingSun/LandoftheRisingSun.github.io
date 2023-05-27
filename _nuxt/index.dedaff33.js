@@ -1,0 +1,1 @@
+import{p as s,j as e,o as c,x as t}from"./entry.626acdb7.js";const o=""+globalThis.__publicAssetsURL("circle.png"),n={},_=t("img",{src:o,class:"mt--1"},null,-1),r=[_];function a(l,i){return c(),e("div",null,r)}const p=s(n,[["render",a]]);export{p as default};
